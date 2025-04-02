@@ -19,11 +19,11 @@
 
 <h2>About Me</h2>
 
-- 🌱 Currently learning: **Go**  
-- 💬 Favorite language: **Go**  
-- ⚡ Interests: Overwatch, my home server, **Go**
-- 🔭 Building a Minecraft server website using **Go**  
-- 🚀 Everything I do is ready to **Go**
+- 🌱 Currently learning: **Go**.
+- 💬 Favorite language: **Go**.
+- ⚡ Interests: Overwatch, my home server, **Go**.
+- 🔭 Building a Minecraft server website using **Go**.
+- 🚀 Everything I do is ready to **Go**.
 <h2>Skills</h2>
 
 <h3>🧠 Languages</h3>
@@ -34,14 +34,13 @@
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 <h3>⚙️ Technologies</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
 <h3>🔧 Tools & Other</h3>
@@ -49,9 +48,22 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
+<h2>🚧 Current Projects</h2>
+
+<ul>
+  <li>
+    <strong><a href="https://github.com/tytapory/gbs">GBS</a></strong> — REST API core for peer-to-peer transactions  
+    <br/>
+    <em>Blazingly fast. Written in <strong>Go</strong>.</em>
+  </li>
+</ul>
     </td>
     <td>
       <img src="https://media1.tenor.com/m/iIll9Rs1Wp4AAAAC/dancing-cat-dance.gif" width="200px">
     </td>
   </tr>
 </table>
+
+<div align="center">
+   <h2>--  See you later!  --</h2>
+</div>
