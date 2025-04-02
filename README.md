@@ -12,7 +12,6 @@
 - 🌱 Currently learning: **Go**  
 - 💬 Favorite language: **Go**  
 - ⚡ Interests: Overwatch, my home server, **Go**  
-- ☕ Love taking coffee to **Go**  
 - 🚀 Everything I do is ready to **Go**
 
     </td>
