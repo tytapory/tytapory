@@ -2,7 +2,7 @@
    <h1>Hello, I'm Vladislav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
     <img src="https://media1.tenor.com/m/eAM_5BbuMjoAAAAC/blxst-sometimes.gif"/>
 </div>
-<table>
+<table align="center">
   <tr>
     <td>
 
