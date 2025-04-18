@@ -59,7 +59,7 @@
   <li>
     <strong><a href="https://github.com/tytapory/completely-normal-go">completely-normal-go</a></strong> — Completely normal go packages :)
     <br/>
-    <em>This is sarced art house of my most cursed <strong>Go</strong> packages.</em>
+    <em>This is sarced art house of my most <strong>Go</strong> packages.</em>
   </li>
 </ul>
     </td>
