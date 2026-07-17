@@ -6,9 +6,6 @@
    <a href="https://t.me/vladislav_bezmaternih">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram badge"/>
    </a>
-   <a href="https://github.com/tytapory/gbs">
-      <img src="https://img.shields.io/badge/GitHub_gbs-View_Project-333?style=for-the-badge&logo=github">
-   </a>
 </div>
 
 <br/>
